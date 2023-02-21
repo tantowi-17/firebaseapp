@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "1087",
+      "name": "Abhishek Saini",
+      "email": "info@abhiandroid.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 0000000000",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1088",
+      "name": "Gourav",
+      "email": "gourav9188@gmail.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 0000000000",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1089",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+1 123-456-7890",
+        "home": "000-000-0000",
+        "office": "111-111-1111"
+      }
+    },
+    {
+      "id": "1090",
+      "name": "Jane Doe",
+      "email": "janedoe@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+1 987-654-3210",
+        "home": "111-111-1111",
+        "office": "000-000-0000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Firebase</string>
+    <string name="tugas_pemrograman_mobile">Tugas Pemrograman Mobile</string>
+    <string name="firebase">Firebase</string>
+    <string name="json">JSON</string>
+    <string name="sqlite">Sqlite</string>
+</resources>
